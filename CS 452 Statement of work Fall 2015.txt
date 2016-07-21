@@ -1,0 +1,84 @@
+Statement of Work
+CS 452 Fall Semester 2015
+United Way Project Team: 
+Jamario Bell and William Cummins
+September 29, 2015
+ 
+Table of Contents
+	  Page 3: Scope, Requirements
+ Page 4: Tasks, Resources
+     Page 5: Project Plan Outline
+Page 6: Project Milestone
+ 
+Scope
+The United Way of Limestone County needs the volunteer form that was added to their website updated to aid them in finding the best volunteers for each job. On the current volunteer form, two check boxes need to be added in order for volunteers to specify which jobs they are signing up for (disaster relief or community volunteering).United Way would also like for the volunteer form to be updated so that potential volunteers can add the last four digits of their social security number to the form. Additionally, United Way has asked if a security audit can be done to their website to find any vulnerabilities. They would also like us to create a user guide for the website to make it easier for administrators to navigate through it and make changes without the assistance of IT personnel. 
+
+Requirements
+The volunteer form on the United Way website needs to be updated to add more information and for better efficiency. There will be two additional check boxes added to the form. The first box will specify that the volunteer is volunteering for disaster relief jobs only. The second box will specify that the volunteer is volunteering for community jobs only. There will also be a box inserted on the form where the potential volunteer can enter the last four digits of their social security number. United way has also request that a security audit be done on the website as well as the creation of a user guide for the administrators of the website to use when making changes to the website.
+We will also need to modify their database in order to store the additional information.
+
+ 
+Tasks
+	Information Gathering. Gathering the necessary information from the United Way contact (Daylee Downs).
+	Modify database to store additional Information.
+	Update volunteer form for volunteers that only want to aid in disaster relief.
+	Update volunteer form for volunteers that only want to aid in community projects.
+	Update volunteer form to add an area to enter the last four digits of social security number.
+	Testing. Testing to make sure everything that was updated on the volunteer form is working properly. Make sure additional information added to the form properly obtained and stored in the database.
+	Security Audit. Do a security audit of the website to check for any vulnerabilities that might cause personal information to become compromised. 
+	Website user guide. Create a website user guide to aid administrators in making changes to the website without the aid of IT personnel.
+	Website Q&A with administrator. Answer any questions the client may have regarding the website.
+	Update administrative functionality to reflect additional information added to forms.
+	Deploy updated website.
+
+Resources
+The hardware needed for this project will be the Athens State University Server. The Athens State University Server is already in place. All work will be performed by the CS 452 United Way Project group (Jamario Bell and Joe Cummins). All work done by the CS 452 United Way Project Group will be uploaded to GitHub(www.GitHub.com). 
+
+ 
+	1. Initial Setup
+o		Information Gathering
+o		Obtaining information needed to start project
+
+2. Design Phase
+
+	            Website volunteer form
+
+		Checkbox to specify disaster relief volunteer job 
+
+o	Add checkbox to top of United Way volunteer form to volunteer for disaster relief only
+
+Checkbox to specify community volunteer job
+
+o	Add checkbox to top of United Way volunteer form to volunteer for community volunteer only
+Last four digits of social security number placeholder box
+o	Add placeholder box on volunteer form for last four digits of social security number, remember to encrypt		
+
+	 3. Testing/ Security Audit
+o	Test website to verify that there are no errors and everything is fully operational
+o	Do a security audit of website to ensure there are no vulnerabilities and fix any that exist
+	4.  Website user guide
+o	Create website user guide for United Way admin
+
+	5.  Revisions
+o	Group meeting to discuss any revisions that are needed
+	6.  Deploy updated website
+
+Milestone	Projected Time
+Initial Setup	1 week
+Download/upload source code	1 week
+Learn to code PHP	1 week
+Update volunteer form	1 week
+Make site user-friendly	1 week
+Create website user guide	2 weeks
+Website security audit	1 week
+Fix flaws in website security	2 weeks
+Projected duration of project	10 weeks
+** Projected times are subject to change based on work load and unforeseen problems.
+
+
+
+
+
+
+
+

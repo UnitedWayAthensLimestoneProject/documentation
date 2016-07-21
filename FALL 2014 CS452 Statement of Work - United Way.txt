@@ -1,0 +1,168 @@
+CS 452 United Way Project Group Fall 2014 
+Statement of Work 
+CS 452 Fall Semester 2014 
+United Way Project Team: William Reeves, Stacey Willoughby, 
+Dewayne McAnnally, Joshua Grant, Brian Wright 
+September 18th,2014 
+
+Scope 
+
+The United Way of Limestone County needs additional forms added to their current website to 
+accommodate the needs of their volunteers. The current website needs three additional forms 
+added to the site, one to accommodate people who would like to donate items, a form for those 
+who have experienced damage because of a storm, and a form for those who need assistance due 
+to a disaster. It is preferable if the forms are smart phone compatible. 
+
+Requirements 
+
+The United Way website needs to be updated with additional forms. There will three additional 
+forms added to the site. One form will be for those wanting to donate items. The other forms 
+will be for those who need assistance due to a disaster, and who have experienced damage. The 
+group will need to gather specification on exactly what information the customer needs to obtain 
+from the forms. There will need to be an easily accessible link to the forms on the United Way's 
+current website' s homepage. 
+
+We will also need to modify their current database in order to store the information. 
+
+The group POC will keep the United Way POC up to date and informed on the current progress 
+of the project, and obtain additional information from the United Way POC as needed. 
+
+Tasks 
+
+Information gathering. Gathering information from the United Way POC 
+Modify database for information storing  
+Update website to include a form for anyone in need of assistance due to disaster 
+Update website to include a form for anyone who has experienced damage due to a 
+disaster 
+Update website to include a form for anyone who would like to donate items to the United Way 
+Testing. Testing to make sure all links and forms are working properly, and that there are 
+no errors. Make sure all information obtained from forms is properly obtained and stored 
+in the database. 
+Website training. Admin Training. Answer any questions the customer may have 
+Update administrative functionality to reflect addition of new forms 
+Deploy website. 
+
+Resources 
+
+The hardware needed for the project will be the Athens State University Server. The ASU server 
+is already in place. All work will be performed by the CS 452 United Way Project group 
+members. Upon completion of the project, an administrator will be able to obtain the information 
+from the forms (an employee of United Way). 
+
+
+1. Initial Setup 
+	o Information gathering 
+	o Obtaining materials/info needed to begin project 
+2. Design Phase 
+	Website Forms 
+	Links to the new forms 
+	o Add additional links to current United Way website. Make sure they are easily accessible to website users 
+	Disaster assistance form 
+	o Design form to obtain information for those needing disaster assistance 
+	Disaster damage form 
+	o Design form to obtain information for those reporting damage from disaster. 
+	Donations form 
+	o Design form to obtain information for those wanting to donate items 
+	Modify database 
+	o Modify the United Way dataset in order to store information from the forms 
+3. Testing 
+	o Test website to be sure there are no errors and website forms are fully functional 
+4. Revisions 
+	o Group meeting to make revisions if needed 
+5. Website training 
+	o Admin training 
+6. Deploy Website 
+
+
+Milestones and Projected Times 
+
+Initial Setu 1 week 
+Links to new forms 1 week 
+Disaster assistance and damage forms 3 weeks 
+Donations form 2 weeks 
+Setting up Database 4 weeks 
+Revision Phase 2 days 
+Website trainin 1 day 
+Projected time start to finish l1 weeks 
+*Projected times are estimates are subject to change in relation to work loads. 
+
+Monitoring and Quality Assurance 
+
+There will be periodic meetings with the United Way Project group members and also with the 
+POC from the United Way. Periodic testing will be done to ensure the web page is functioning 
+properly. 
+
+Admin User Stories 
+
+o 
+As an Administrator, I want to be able to easily obtain information from the website forms 
+o 
+As an Administrator, I want an easily accessible link on the home page so website users can 
+gain easy access to forms 
+o 
+As an Administrator, I want a UI with limited user permission 
+o 
+As an administrator, during a disaster I want access to the database when network is down 
+o 
+As an administrator, during a disaster I want to be able to modify the database 
+o 
+As an administrator, I want to be able to print from the database 
+o 
+As an administrator, I want to be able to insert, delete, view, or modify database info offline 
+o 
+As an administrator, I want a user friendly database 
+o 
+As an administrator, I want fully functional form pages that are easy for website users to use 
+and also look nice 
+User Stories 
+
+o 
+As a user, I want to be able to easily access information on the website. 
+o 
+As a user, I want to have the ability to register easily for services. 
+o 
+As a user, I want to be able to be able to make donations to United Way. 
+o 
+As a user, I want to be able to report to United Way that I am in need of help. 
+o 
+As a user, I want to be able to report to United Way that I experienced damage during a disaster. 
+o 
+As a user, I want to see a full functional website. 
+
+
+Testing Procedures 
+
+Database Linkage Testing Form s Validation Testing Data lntegrity Testing Forms Access Testing 
+
+lnternal Group Testing Database Load Testing 
+
+Testing Analyst Website Soft Launch 
+
+Release of Product 
+
+Database Linkage Testing: (Josh, Brian, Stacey) -Testing for proper linkage between forms 
+and database. 
+
+Forms Validation Testing: (Dewayne, Kyle) -Testing for input on forms that data entry 
+parameters are kept. 
+
+Data Integritv Testing: (Brian, Stacey) -Testing for input data from forms that data is corect 
+as entered by user. 
+
+Forms Access Testing: (Dewayne, Kyle, Josh) -Testing that all access points for forms are 
+correct and in place and adminsitration pages are correctly linked. 
+
+Internal Group Testing: (Josh, Brian, Stacey, Dewayne, Kyle) -Overall usage testing for 
+website, database, and forms. 
+
+Limited External Testing: (Select External Users) -Testing of overall site by outside sources 
+
+Database Load Testing: (Josh, Dewayne, Brian) -Testing under load of database 
+
+Testing Anvalst: (Josh, Brian, Stacey, Dewayne, Kyle) -Analytics and anyalizing of testing 
+outcomes. 
+
+Website Soft Launch: (Josh, Brian, Stacey, Kyle, Dewayne) -Softlaunch to server and website 
+live 
+
+United Way Representative Signature 
